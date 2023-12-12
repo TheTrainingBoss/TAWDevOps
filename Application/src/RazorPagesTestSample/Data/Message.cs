@@ -5,6 +5,7 @@ namespace RazorPagesTestSample.Data
     #region snippet1
     public class Message
     {
+        //Adding a comment to test git
         public int Id { get; set; }
 
         [Required]
